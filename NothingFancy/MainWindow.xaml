@@ -1,0 +1,30 @@
+﻿<Window x:Class="NothingFancy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NothingFancy"
+        xmlns:controls="clr-namespace:NothingFancy.Controls"
+        mc:Ignorable="d"
+        MinWidth="600"
+        MinHeight="500"
+        MaxHeight="400"
+        MaxWidth="800"
+        Title="Nothing Fancy" Height="400" Width="800">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <controls:SideMenuControl x:Name="SideMenu" MouseLeftButtonUp="SideMenu_OnMouseLeftButtonUp">
+        </controls:SideMenuControl>
+
+        <Border Grid.Column="1" Background="AliceBlue">
+            <Frame Name="MainFrame"></Frame>
+        </Border>
+
+    </Grid>
+</Window>
+
