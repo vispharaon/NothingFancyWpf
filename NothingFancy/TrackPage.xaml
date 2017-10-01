@@ -94,7 +94,7 @@
                                Margin="5 5 15 5" 
                                FontSize="15"
                                Width="100"></TextBlock>
-                    <TextBlock Text="{Binding Playtime}"
+                    <TextBlock Text="{Binding DiscNumber}"
                                Margin="5 5 15 5"
                                FontFamily="Arial"
                                FontSize="15"

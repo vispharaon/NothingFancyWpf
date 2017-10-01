@@ -35,3 +35,7 @@ C:\Users\amar.hajro\documents\visual studio 2017\Projects\NothingFancy\NothingFa
 C:\Users\amar.hajro\documents\visual studio 2017\Projects\NothingFancy\NothingFancy\obj\Debug\TrackPage.g.cs
 C:\Users\amar.hajro\documents\visual studio 2017\Projects\NothingFancy\NothingFancy\obj\Debug\TrackPage.baml
 C:\Users\amar.hajro\documents\visual studio 2017\Projects\NothingFancy\NothingFancy\obj\Debug\NothingFancy.csprojResolveAssemblyReference.cache
+C:\Users\amar.hajro\documents\visual studio 2017\Projects\NothingFancy\NothingFancy\bin\Debug\NothingFancy.exe.manifest
+C:\Users\amar.hajro\documents\visual studio 2017\Projects\NothingFancy\NothingFancy\bin\Debug\NothingFancy.application
+C:\Users\amar.hajro\documents\visual studio 2017\Projects\NothingFancy\NothingFancy\obj\Debug\NothingFancy.exe.manifest
+C:\Users\amar.hajro\documents\visual studio 2017\Projects\NothingFancy\NothingFancy\obj\Debug\NothingFancy.application
